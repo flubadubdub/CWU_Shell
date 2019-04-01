@@ -1,0 +1,4 @@
+~cpuinfo
+-c : prints cpu clock
+-t : prints cpu type
+-n : prints number of cpu cores

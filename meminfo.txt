@@ -1,0 +1,4 @@
+~meminfo
+-t : prints system's avaiable RAM in bytes
+-u : prints the amount of RAM currently being used
+-c : prints the size of the L2/core cache in bytes
